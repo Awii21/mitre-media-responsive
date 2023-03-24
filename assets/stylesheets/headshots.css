@@ -1,0 +1,57 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+.headshots-sprite, .headshots-cory, .headshots-denis, .headshots-george, .headshots-kevin, .headshots-mark, .headshots-sandy, .headshots-tom {
+  background-image: url('../../assets/images/headshots-saacf873aa3.png');
+  background-repeat: no-repeat;
+}
+
+.headshots-cory {
+  background-position: 0 0;
+}
+
+.headshots-denis {
+  background-position: 0 -165px;
+}
+
+.headshots-george {
+  background-position: 0 -330px;
+}
+
+.headshots-kevin {
+  background-position: 0 -495px;
+}
+
+.headshots-mark {
+  background-position: 0 -660px;
+}
+
+.headshots-sandy {
+  background-position: 0 -825px;
+}
+
+.headshots-tom {
+  background-position: 0 -990px;
+}
+
+/*
+     FILE ARCHIVED ON 21:04:48 Jan 15, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:09:17 Mar 01, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 290.187
+  exclusion.robots: 0.121
+  exclusion.robots.policy: 0.105
+  RedisCDXSource: 0.857
+  esindex: 0.008
+  LoadShardBlock: 266.831 (3)
+  PetaboxLoader3.datanode: 202.776 (5)
+  PetaboxLoader3.resolve: 140.483 (3)
+  load_resource: 158.436 (2)
+*/
