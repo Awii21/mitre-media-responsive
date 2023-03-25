@@ -1,7 +1,7 @@
 # mitre-media-responsive
  HTML  + CSS + JS   
    
- This website was an old website and was not responsive so I made it responsive with new flexox layouts.
+ This website was an old website and was not responsive so I made it responsive with flexbox layout.
 
 ![Image](ss-1.png)
 ![Image](ss-2.png)
